@@ -1,3 +1,2 @@
 # helloGit
-test
-https://maximum-maximum.github.io/helloGit/
+test: https://maximum-maximum.github.io/helloGit/
